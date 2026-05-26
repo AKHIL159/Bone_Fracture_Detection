@@ -203,21 +203,6 @@ Each role has:
 
 ---
 
-# 📸 Screenshots
-
-## Login Page
-_Add screenshot here_
-
-## Patient Dashboard
-_Add screenshot here_
-
-## Doctor Dashboard
-_Add screenshot here_
-
-## Detection Results
-_Add screenshot here_
-
----
 
 # 📈 Future Improvements
 
