@@ -114,7 +114,7 @@ bone-fracture-detection/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/bone-fracture-detection.git
+git clone https://github.com/AKHIL159/bone-fracture-detection.git
 cd bone-fracture-detection
 ```
 
